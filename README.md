@@ -34,7 +34,8 @@ You can also view my website at: https://alenkvaldez.github.io/kristoffervz.gith
 
 ###  Me Against the World - "28th Year Anniversary"
 <!--* **View Project:**  http://www.insertpage.com-->
-![MATWPreview_AdobeExpress (1)](https://user-images.githubusercontent.com/116237490/224577446-a28264c2-8e06-4197-86a5-37545dfad655.gif)
+ <img align="right" height="270px" width="450px" 
+![MATWPreview_AdobeExpress (1)](https://user-images.githubusercontent.com/116237490/224577446-a28264c2-8e06-4197-86a5-37545dfad655.gif)  style="vertical-align:top; margin:4px"> 
 
   * **Repository:**  [https://github.com/alenkvaldez/MATW28YRS](https://github.com/alenkvaldez/MATW28YRS)
   * **Description:**  This website offers a quick and retrospective walk-through of the creation of the album and glimpse of 2pac's life during.
