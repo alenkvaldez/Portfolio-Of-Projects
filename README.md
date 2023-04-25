@@ -21,6 +21,7 @@
 * React
 * SQL
 * Next.js
+* API
 
 ## Description
 
@@ -40,3 +41,7 @@ You can also view my website at: https://alenkvaldez.github.io/kristoffervz.gith
   * **Description:**  This website offers a quick and retrospective walk-through of the creation of the album and glimpse of 2pac's life during.
  
   * **Tools:** HTML, CSS, JavaScript, Three.js, Vite
+
+ ### AI Photo Generator - "DREAMIN'"
+ 
+ 
