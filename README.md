@@ -20,7 +20,7 @@
 * ASP.NET
 * React
 * SQL
-* Next.js
+* Node.js
 * API
 
 ## Description
@@ -49,4 +49,4 @@ You can also view my website at: https://alenkvaldez.github.io/kristoffervz.gith
    * **Description:**  DreamApp is a web application designed to allow users to create and share their dreams with others. It includes user authentication, dream creation and management functionality, and search functionality based on tags.
 The application includes user authentication and registration functionality, while also including functionality for creating, viewing, and managing user dreams. The project also includes templates and static files for the user interface, as well as an OpenAI database for storing dream and user information. The app will also use OpenAI’s Image Generation API to create a unique image with its Dalle-2 model.
  
-   * **Tools:** HTML, CSS, Vanilla JavaScript, Node.js, React, OpenAI
+   * **Tools:** HTML, CSS, Vanilla JS, Node.js, React, OpenAI
