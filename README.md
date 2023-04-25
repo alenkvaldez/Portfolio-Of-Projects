@@ -37,4 +37,6 @@ You can also view my website at: https://alenkvaldez.github.io/kristoffervz.gith
 ![MATWPreview_AdobeExpress (1)](https://user-images.githubusercontent.com/116237490/224577446-a28264c2-8e06-4197-86a5-37545dfad655.gif)
 
   * **Repository:**  [https://github.com/alenkvaldez/MATW28YRS](https://github.com/alenkvaldez/MATW28YRS)
-  * **Description:**  This website offers a quick and effective detailed walk-through of the creation of the album and retrospect of 2pac's life during. Created using Visual Studio Code along with HTML, CSS, JS, Three.js and vite.
+  * **Description:**  This website offers a quick and effective detailed walk-through of the creation of the album and retrospect of 2pac's life during.
+ 
+  * **Tools:** HTML, CSS, JavaScript, Three.js, Vite
