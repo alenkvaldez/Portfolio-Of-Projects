@@ -34,7 +34,6 @@ You can also view my website at: https://alenkvaldez.github.io/kristoffervz.gith
 
 ###  Me Against the World - "28th Year Anniversary"
 <!--* **View Project:**  http://www.insertpage.com-->
-
 ![MATWPreview_AdobeExpress (1)](https://user-images.githubusercontent.com/116237490/224577446-a28264c2-8e06-4197-86a5-37545dfad655.gif)
 
   * **Repository:**  [https://github.com/alenkvaldez/MATW28YRS](https://github.com/alenkvaldez/MATW28YRS)
@@ -44,4 +43,12 @@ You can also view my website at: https://alenkvaldez.github.io/kristoffervz.gith
 
  ### AI Photo Generator - "DREAMIN'"
  
+ ![AI photo generator](https://user-images.githubusercontent.com/116237490/234416593-c9f9be02-867a-40ea-9dd5-2a4193baaa66.gif)
+ 
+   * **Repository:**  [https://github.com/alenkvaldez/MATW28YRS](https://github.com/alenkvaldez/MATW28YRS)
+   * **Description:**  DreamApp is a web application designed to allow users to create and share their dreams with others. It includes user authentication, dream creation and management functionality, and search functionality based on tags.
+
+The application includes user authentication and registration functionality, while also includeing functionality for creating, viewing, and managing user dreams. The project also includes templates and static files for the user interface, as well as a SQLite database for storing dream and user information.
+
+The app will also use OpenAI’s Image Generation API to create a unique image with its Dalle-2 model.
  
