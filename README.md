@@ -61,3 +61,10 @@ The package includes a number of modules for different aspects of the API, such 
 The package provides a number of functions for retrieving various types of data from the NBA Stats API, such as player information, game summaries, team rosters, and more. The data is returned in JSON format, which can be easily processed by React. This application is designed to provide a convenient way for developers to retrieve data from the NBA Stats API. It includes multiple modules for different aspects of the API and provides functions for retrieving various types of data.
  
   * **Tools:** HTML, CSS, React, Axios, balldontlie.io
+  
+  ### BobaOnWheelz - "Boba Delivery to You'"
+  
+  ![bobamealz](https://user-images.githubusercontent.com/116237490/235569331-6018228f-ea5b-43c0-97b5-5b9ee33e9e10.gif)
+  
+  * **Repository:**  [https://github.com/alenkvaldez/BobaOnWheelz](https://github.com/alenkvaldez/BobaOnWheelz)
+  * **Description:** BobaOnWheelz is a web application built using the React framework, which allows users to order boba drinks online. The project includes a number of components for different parts of the application, such as a header component, a footer component, and a component for displaying the list of available drinks. It also includes a number of CSS files for styling the user interface, as well as a JSON file for storing the drink data. The main page of the application displays a list of available drinks, including their names, descriptions, and prices. Users can add drinks to their cart by clicking the "Add to Cart" button next to each drink. The cart page displays a summary of the items in the user's cart, including the total cost. Users can adjust the quantity of items in their cart and remove items as necessary. Finally, the checkout page allows users to enter their contact and payment information in order to complete their order. 
